@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+# Create your models here yes here is the model which we have created so far.
 
 
 class UserDetail(models.Model):
